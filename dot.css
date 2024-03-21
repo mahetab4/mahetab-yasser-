@@ -1,0 +1,29 @@
+.heads{
+	font-weight: bold;
+}
+
+.pict{
+	width: 30%;
+}
+
+.capt{
+	font-style: italic;
+}
+
+h2{
+	color: red;
+}
+
+h3{
+	color: blue;
+}
+
+td{
+  border-color: black;
+  border-style: solid;
+  padding: 10px;
+}
+
+.empty{
+	border-style: none;
+}
