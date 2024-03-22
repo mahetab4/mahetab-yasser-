@@ -7,21 +7,24 @@
 }
 
 .capt{
-	font-style: italic;
+	font-style:oblique;
 }
 
 h2{
-	color: red;
+	color: purple;
 }
 
 h3{
-	color: blue;
+	color: gray;
 }
 
 td{
   border-color: black;
-  border-style: solid;
+  border-style: dotted;
   padding: 10px;
+  text-align: center;
+  
+  
 }
 
 .empty{
